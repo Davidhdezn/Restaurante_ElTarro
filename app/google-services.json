@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "846235121672",
+    "firebase_url": "https://restaurante-el-tarro.firebaseio.com",
+    "project_id": "restaurante-el-tarro",
+    "storage_bucket": "restaurante-el-tarro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846235121672:android:ae709b69209960493f79bd",
+        "android_client_info": {
+          "package_name": "davidhdezn.app.restaurante_eltarro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846235121672-eml3h1ri601uc1u0sbp7rerjb9o9qtq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "davidhdezn.app.restaurante_eltarro",
+            "certificate_hash": "b18cba53791209c9426ef36c33a141ce29e9c697"
+          }
+        },
+        {
+          "client_id": "846235121672-85q7nfrvmqbtr38ovba33bct01n71f8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlNj64i3SrI1VN5zmj14ZiK8qoOeN0g5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846235121672-85q7nfrvmqbtr38ovba33bct01n71f8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
